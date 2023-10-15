@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T14:00:24.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="gmve8QInBhS2lgHC8Iyt" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T14:01:53.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="s8uJlTot6UrFpNcOWrXC" version="22.0.4" type="github">
   <diagram name="Page-1" id="-nxfeL_nO1Qb3R4V-HHU">
-    <mxGraphModel dx="2193" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,25 +30,47 @@
         <mxCell id="YJ8ZMtUsGqNtoUOBKspB-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="-1120" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-7" target="YJ8ZMtUsGqNtoUOBKspB-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="-1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rw3usRkuyZQ38_liEWZ4-3" target="rw3usRkuyZQ38_liEWZ4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJ8ZMtUsGqNtoUOBKspB-7" value="Landing page&lt;br&gt;Página Externa&lt;br&gt;Social Media (Instagram, Facebook, Whatsapp)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="-1290" width="175" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-10" target="YJ8ZMtUsGqNtoUOBKspB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rw3usRkuyZQ38_liEWZ4-3" target="rw3usRkuyZQ38_liEWZ4-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-10" value="BOT" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="500" y="-1270" width="100" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-3" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-11" target="YJ8ZMtUsGqNtoUOBKspB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="-1220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-9" value="Dependencias" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rw3usRkuyZQ38_liEWZ4-6" target="rw3usRkuyZQ38_liEWZ4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-11" value="Recopilar información del evento&lt;br&gt;Brindar Cotizacion" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-1252.5" width="130" height="65" as="geometry" />
+        </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rw3usRkuyZQ38_liEWZ4-6" target="rw3usRkuyZQ38_liEWZ4-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-14" value="AREA DE PRODUCCIÓN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-6" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Registro de Nuevo Evento&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="110" width="100" height="40" as="geometry" />
