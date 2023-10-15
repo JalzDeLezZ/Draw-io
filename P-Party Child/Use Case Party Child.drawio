@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T18:24:32.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="uWLtO8ZrG2Gh-BsXQ3uq" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T21:57:19.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="89L48ClQUzBH7bcajVdb" version="22.0.4" type="github">
   <diagram name="Page-1" id="-nxfeL_nO1Qb3R4V-HHU">
-    <mxGraphModel dx="1491" dy="3051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2322" dy="3096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,12 @@
         <mxCell id="rw3usRkuyZQ38_liEWZ4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rw3usRkuyZQ38_liEWZ4-1" target="rw3usRkuyZQ38_liEWZ4-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-3" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-3" target="fQ_dM4xA8Kc3gtFHapRT-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="-910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-3" value="Cliente&lt;br&gt;(Lead)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="-1110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rw3usRkuyZQ38_liEWZ4-1" target="rw3usRkuyZQ38_liEWZ4-28" edge="1">
@@ -38,7 +43,7 @@
         <mxCell id="rw3usRkuyZQ38_liEWZ4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rw3usRkuyZQ38_liEWZ4-3" target="rw3usRkuyZQ38_liEWZ4-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-7" value="Landing page&lt;br&gt;Página Externa&lt;br&gt;Social Media (Instagram, Facebook, Whatsapp)&lt;br&gt;Google" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-7" value="Landing page&lt;br&gt;Página Externa&lt;br&gt;Social Media &lt;br&gt;(Instagram, Facebook, Whatsapp)&lt;br&gt;Google" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="237.5" y="-1290" width="175" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YJ8ZMtUsGqNtoUOBKspB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-10" target="YJ8ZMtUsGqNtoUOBKspB-11" edge="1">
@@ -63,10 +68,13 @@
         <mxCell id="rw3usRkuyZQ38_liEWZ4-9" value="Dependencias" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rw3usRkuyZQ38_liEWZ4-6" target="rw3usRkuyZQ38_liEWZ4-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-11" value="Recopilar información del evento&lt;br&gt;Brindar Cotizacion" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="-1252.5" width="130" height="65" as="geometry" />
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-11" value="Recopilar y brindar información del evento&lt;br&gt;(Costos, Tendencias)" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="-1256.25" width="140" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rw3usRkuyZQ38_liEWZ4-6" target="rw3usRkuyZQ38_liEWZ4-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-14" target="fQ_dM4xA8Kc3gtFHapRT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJ8ZMtUsGqNtoUOBKspB-14" value="AREA DE PRODUCCIÓN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
@@ -107,6 +115,24 @@
         </mxCell>
         <mxCell id="rw3usRkuyZQ38_liEWZ4-33" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Registrar Clientes&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="820" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQ_dM4xA8Kc3gtFHapRT-2" target="fQ_dM4xA8Kc3gtFHapRT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-2" value="Registrar Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-945" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-3" value="Medios:&lt;br&gt;* Social Media&lt;br&gt;* E-Commerce&lt;br&gt;* Web Site&lt;br&gt;* CRM" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-952.5" width="110" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fQ_dM4xA8Kc3gtFHapRT-6" target="YJ8ZMtUsGqNtoUOBKspB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-6" value="Encargado&lt;br&gt;(Community Manager)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ_dM4xA8Kc3gtFHapRT-8" value="LOGISTICA:&lt;br&gt;El área de entrega de material&lt;br&gt;(Mobiliario Candy Bar)&lt;br&gt;* Quien es el Proveedor&lt;br&gt;*&amp;nbsp;Horario de llegada&lt;br&gt;* Quien lleva, quien recoge&lt;br&gt;* Placa&lt;br&gt;&lt;br&gt;DECORADORA:&lt;br&gt;Colores de globos&lt;br&gt;De materiales se va hacer el evento&lt;br&gt;Cómo van a ir ubicadas las cosas&lt;br&gt;(Tiene toda la info que se recopile de la cotizacion)&lt;br&gt;&lt;br&gt;Recibe a los proveedores de mobiliario&lt;br&gt;Un proveedor externo cotiza lo que se necesite en dicho evento&lt;br&gt;Un peluche, una vela&lt;br&gt;&lt;br&gt;PLANNER:&lt;br&gt;(Depende del tamaño del evento)&lt;br&gt;Organizar, recopilar información a los proveedores&lt;br&gt;Contactar a los provedores según lo que desee la cliente&lt;br&gt;(Equipo de proveedores directos)&lt;br&gt;&lt;br&gt;Banquete&lt;br&gt;Snacks&lt;br&gt;Show de niños&lt;br&gt;Florista&lt;br&gt;Etc.&lt;br&gt;&lt;br&gt;DISEÑO&lt;br&gt;Hacer realidad el diseño vinil de lo que se va a producir&lt;br&gt;&lt;br&gt;LAYOUT&lt;br&gt;El 3D cómo va a quedar (Maqueta)&lt;br&gt;&lt;br&gt;EQUIPO&lt;br&gt;Producir, Montar, Pintar, Hacer el mobiliario, Herreria, Cualquier prototipo&lt;br&gt;(Proveedores, Nosotros)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.042857142857143184;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-1490" width="300" height="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
