@@ -1,11 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T13:46:20.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EHdtTfNb6BgjD_G8N2F2" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T13:51:22.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UeL5_7In2N7HKcnPPGPA" version="22.0.4" type="github">
   <diagram name="Page-1" id="-nxfeL_nO1Qb3R4V-HHU">
-    <mxGraphModel dx="500" dy="1446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="2615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-1140" width="30" height="60" as="geometry" />
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-3" target="YJ8ZMtUsGqNtoUOBKspB-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="-970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-3" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-1110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJ8ZMtUsGqNtoUOBKspB-4" target="YJ8ZMtUsGqNtoUOBKspB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ8ZMtUsGqNtoUOBKspB-7" value="Landing page&lt;br&gt;Página Externa&lt;br&gt;Social Media (Instagram, Facebook, Whatsapp)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="-1290" width="175" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
