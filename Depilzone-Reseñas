@@ -25,20 +25,48 @@
         <mxCell id="-wjLdo8XyRFe8DLlkovQ-3" value="CLIENT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="770" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-wjLdo8XyRFe8DLlkovQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-wjLdo8XyRFe8DLlkovQ-5" target="-wjLdo8XyRFe8DLlkovQ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-wjLdo8XyRFe8DLlkovQ-5" value="Registrar Reseña" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjLdo8XyRFe8DLlkovQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-wjLdo8XyRFe8DLlkovQ-9" target="-wjLdo8XyRFe8DLlkovQ-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wjLdo8XyRFe8DLlkovQ-9" value="Verifica el&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Cliente&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjLdo8XyRFe8DLlkovQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-wjLdo8XyRFe8DLlkovQ-11" target="-wjLdo8XyRFe8DLlkovQ-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wjLdo8XyRFe8DLlkovQ-11" value="Control Reportes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-wjLdo8XyRFe8DLlkovQ-15" value="2.4 El cliente califica el [servicio, producto, Especialista]&amp;nbsp; adquirido y brinda mejoras para la empresa" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.49;size=30;position=0.37;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="350" height="90" as="geometry" />
+          <mxGeometry x="230" y="390" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjLdo8XyRFe8DLlkovQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-wjLdo8XyRFe8DLlkovQ-16" target="-wjLdo8XyRFe8DLlkovQ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjLdo8XyRFe8DLlkovQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wjLdo8XyRFe8DLlkovQ-16" target="-wjLdo8XyRFe8DLlkovQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="730" />
+              <mxPoint x="270" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-wjLdo8XyRFe8DLlkovQ-16" value="Controla Cita" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjLdo8XyRFe8DLlkovQ-21" value="Verifica Reseña" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjLdo8XyRFe8DLlkovQ-23" value="Cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="555" width="130" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
